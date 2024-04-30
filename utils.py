@@ -32,11 +32,18 @@ def dotbrackte2bp(structure):
     stack={'(':[],
            '[':[],
            '<':[],
-           '{':[]}
+           '{':[],
+           'A':[],
+           'B':[],
+           'C':[]}
     pop={')':'(',
          ']':'[',
          '>':"<",
-         '}':'{'}       
+         '}':'{',
+         'a':'A',
+         'b':'B',
+         'c':'C'}       
+         
     bp_list=[]
     matrix=np.zeros((len(structure),len(structure)))
     for i,s in enumerate(structure):
