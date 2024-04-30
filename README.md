@@ -2,7 +2,7 @@
 
 
 Analysis is done is ```analysis_V2.ipynb``` \
-See output folder for recomputed Ribonanza paper TableS7/S8 for scores including for each of PDB/CASP/PDB+CASP:\
+See ```output``` folder for recomputed Ribonanza paper TableS7/S8 for scores including for each of PDB/CASP/PDB+CASP:\
 Mean F1 \
 Median F1 \
 Mean Crossed-pair F1 \
