@@ -1,7 +1,7 @@
 # Ribonanza_SS_F1_calculations
 
 
-Analysis is done is ```analysis_V2.ipynb``` \
+Analysis is done is ```analysis_v2.ipynb``` \
 See ```output``` folder for recomputed Ribonanza paper TableS7/S8 for scores including for each of PDB/CASP/PDB+CASP:\
 Mean F1 \
 Median F1 \
