@@ -8,4 +8,4 @@ Median F1 \
 Mean Crossed-pair F1 \
 Median Crossed-pair F1 \
 
-Note that Crossed-pair F1 is slightly asymmetric metric-models that predict Crossed-pairs for non Crossed-pair structures get punished and have an additional 0 score in their list of scores
+Note that Crossed-pair F1 is slightly asymmetric metric-models that predict Crossed-pairs for a non Crossed-pair structure get punished and have an additional 0 score in their list of scores
